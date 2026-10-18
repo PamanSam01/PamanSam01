@@ -46,14 +46,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PamanSam01&show_icons=true&theme=github-dark&border_radius=14&hide_border=true&include_all_commits=true" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamanSam01&layout=compact&theme=github-dark&border_radius=14&hide_border=true&langs_count=6" alt="top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PamanSam01&show_icons=true&theme=github_dark&border_radius=14&hide_border=true" alt="stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamanSam01&layout=compact&theme=github_dark&border_radius=14&hide_border=true&langs_count=6" alt="top languages">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PamanSam01&theme=github_dark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophy">
-  </a>
+  <img height="165" src="https://streak-stats.demolab.com/?user=PamanSam01&theme=github-dark&hide_border=true&border_radius=14" alt="streak stats">
 </p>
 
 ---
