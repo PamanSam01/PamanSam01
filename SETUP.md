@@ -63,3 +63,7 @@ sekecil apa pun atau archive/delete `Guides` (dari 2024, keliatan abandoned).
 
 Profil Settings → **Website** isi `https://x.com/MrSamweb3` (biar ada outbound
 link selain Twitter field).
+
+## 6. GitHub Achievements
+
+Untuk melengkapi lencana profil, merge pull request dan kolaborasi commit aktifkan badge seperti Pull Shark, YOLO, dan Pair Extraordinaire.
